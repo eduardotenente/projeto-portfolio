@@ -1,9 +1,21 @@
+@charset "UTF-8";
+
 /* 
-  Variáveis para cores:
-  --fundo-principal
-  --texto
-  --texto-inverso
-  --destaque
-  --destaque-inverso
-  --fundo-card
+    Variáveis para cores:
+    --fundo-principal
+    --texto
+    --texto-inverso
+    --destaque
+    --destaque-inverso
+    --fundo-card
 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+}
